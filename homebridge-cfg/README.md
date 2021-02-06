@@ -19,4 +19,5 @@ mkdir ~/.homebridge/scripts/
 9. remove dummy login and add a python scripts...
 
 additional links:
+- https://github.com/apexad/homebridge-garagedoor-command/blob/master/index.js
 - https://github.com/PJCzx/homebridge-programmableswitch

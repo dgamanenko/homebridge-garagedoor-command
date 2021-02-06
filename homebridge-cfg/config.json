@@ -1,0 +1,14 @@
+{
+...
+    "accessories": [
+        {
+            "accessory": "GarageCommand",
+            "name": "Front Garage Door",
+            "open": "./scripts/open.sh",
+            "close": "./scripts/close.sh",
+            "state": "./scripts/state.sh",
+            "status_update_delay": 15
+        }
+    ],
+...
+}
